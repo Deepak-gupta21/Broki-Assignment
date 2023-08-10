@@ -1,0 +1,49 @@
+/* Loginpage.css */
+
+.container {
+    background-color: #fff;
+    padding: 65px;
+    border-radius: 8px;
+    box-shadow: 22px 30px 32px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+    margin: 55px auto;
+    text-align: center;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    box-shadow: none;
+    background: #1ea69a;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    /* Styles for smaller screens (mobile devices) */
+    .container {
+      max-width: 90%;
+      padding: 10px;
+    }
+  }
+  
