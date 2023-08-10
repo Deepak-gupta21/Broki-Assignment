@@ -1,6 +1,3 @@
-# Assignment question - 
-https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGtwWJvsftmhVFRrvGzRmnhWChL?projector=1&messagePartId=0.1
-
 # Broki React Assignment - README
 
 Welcome to the **Broki React Assignment** repository! This README file provides detailed instructions on how to clone the repository and run the React application locally on your machine.
